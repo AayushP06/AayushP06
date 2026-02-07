@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Kumar Prasad</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushp06" alt="aayushp06" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushP06" alt="aayushp06" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aayushk_prasad" target="blank"><img src="https://img.shields.io/twitter/follow/aayushk_prasad?logo=twitter&style=for-the-badge" alt="aayushk_prasad" /></a> </p>
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aayushk_prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushk_prasad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayush prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush prasad" height="30" width="40" /></a>
+<a href="https://x.com/aayushk_prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushk_prasad" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/aayush-prasad-78672a329/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush prasad" height="30" width="40" /></a>
 <a href="https://kaggle.com/aayush_prasad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aayush_prasad_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tle_enjoyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tle_enjoyer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/craked_head" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="craked_head" height="30" width="40" /></a>
