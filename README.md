@@ -65,11 +65,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AayushP06&theme=vue-dark&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,django,postgres,mongodb,docker,git"/>
+
 
 
 
