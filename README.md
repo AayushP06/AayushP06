@@ -5,11 +5,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AayushP06&theme=darkhub&no-frame=true&margin-w=15"/>
 </p>
 
-<p align="center">
-  <a href="https://x.com/aayushk_prasad" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@aayushk_prasad-000000?style=for-the-badge&logo=x"/>
-  </a>
-</p>
+
 
 ---
 
@@ -72,12 +68,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AayushP06&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=86400"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AayushP06&theme=vue-dark&hide_border=true"/>
 </p>
+
+
 
 ---
 
