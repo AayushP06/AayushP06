@@ -13,8 +13,6 @@
 
 - 🌱 Currently learning **AI/ML, Web Development & Python**
 - 👨‍💻 Portfolio: **[https://aayushprasad.vercel.app](https://aayushprasad.vercel.app)**
-- 📝 Writing tech articles on  
-  **https://www.blogger.com/blog/posts/2473872202407499185**
 - 📫 Reach me at **aayushprasad42@gmail.com**
 - 📄 Resume:  
   **https://drive.google.com/file/d/1g_VJN12M_V2UTAhyksPiMOV0sgvg6-Vt/view**
