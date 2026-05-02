@@ -15,7 +15,7 @@
 - 👨‍💻 Portfolio: **[https://aayushprasad.vercel.app](https://aayushprasad.vercel.app)**
 - 📫 Reach me at **aayushprasad42@gmail.com**
 - 📄 Resume:  
-  **https://drive.google.com/file/d/1g_VJN12M_V2UTAhyksPiMOV0sgvg6-Vt/view**
+  **https://drive.google.com/file/d/1C0tsOZSd27CgYwkBMScvhXtcIqbMddRc/view?usp=drivesdk**
 
 ---
 
